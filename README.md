@@ -2,7 +2,7 @@
 
 Welcome to the source code for my personal portfolio website! This project showcases my skills, projects, and background as a developer. 
 
-You can view the live deployment here: [Live Website](portfolio-ikra-0618.vercel.app)
+You can view the live deployment here: [Live Website](https://portfolio-ikra-0618.vercel.app/)
 
 ---
 
